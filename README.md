@@ -55,9 +55,9 @@ wanna_learn:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daunknowncoder&show_icons=true&locale=en&layout=compact" alt="daunknowncoder" /></p>
 
+
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daunknowncoder&show_icons=true&locale=en" alt="daunknowncoder" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daunknowncoder&" alt="daunknowncoder" /></p>
 
 ## 🗂️ Highlight Projects
 
