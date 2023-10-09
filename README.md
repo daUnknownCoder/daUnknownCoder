@@ -6,6 +6,47 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like creating plugins but i don't know how to :D
 
+```yaml
+name: StellarCoder
+located_in: Mumbai, India
+Std: 12th
+Occupation: Student
+fields_of_interests:
+ [
+   "Creating Efficient and Coding-Friendly plugins for Neovim"
+   "Software Development"
+   "Operating System Development"
+ ]
+currently_learning:
+ [
+   "Python"
+   "Lua"
+   "toml"
+   "rust"
+   "javascript"
+   "json"
+ ]
+know_the_basics_of:
+ [
+   "HTML"
+   "MySQL"
+   "java"
+ ]
+wanna_learn:
+ [
+   "Assembly"
+   "Kotlin"
+   "C++"
+ ]
+```
+
+<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
+<p align="left">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
+</p>
+
 - Social(s) I Use:
 
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
