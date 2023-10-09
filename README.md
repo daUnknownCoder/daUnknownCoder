@@ -45,7 +45,7 @@ wanna_learn:
  ]
 ```
 
-![Snake Animation](https://github.com/daUnknownCoder/daUnknownCoder/blob/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://github.com/daUnknownCoder/daUnknownCoder/blob/output/github-contribution-grid-snake-dark.svg)
 
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 <p align="left">
