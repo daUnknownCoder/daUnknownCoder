@@ -5,4 +5,5 @@
 - 📫 How to reach me: Reddit [u/TackyGaming6](https://reddit.com/user/TackyGaming6)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I like creating plugins but i don't know how to :D
-- 👍 Sites I use: ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white),
+
+![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white),
