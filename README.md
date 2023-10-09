@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&height=150&text=Hey%20Yo!&animation=fadeIn&fontSize=50&fontAlign=40&fontAlignY=35&desc=Trying%20to%20sort%20out%20my%20life%20with%20Coding%20:D&descAlign=60&descAlignY=55)
 
-- 🔭 I’m currently working on life 😢.
-- 🌱 I’m currently learning Python 🐍.
+- 🔭 I’m currently working on life 😢, and maybe my Neovim Distro [NeutronVim](https://github.com/daUnknownCoder/NeutronVim).
+- 🌱 I’m currently learning Python 🐍, Lua, Java, HTML.
 - 📫 How to reach me: Reddit [u/TackyGaming6](https://reddit.com/user/TackyGaming6)
 - 😄 Pronouns: He/Him <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ Fun fact: I like creating plugins but i don't know how to :D
@@ -52,6 +52,12 @@ wanna_learn:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daunknowncoder&show_icons=true&locale=en&layout=compact" alt="daunknowncoder" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daunknowncoder&show_icons=true&locale=en" alt="daunknowncoder" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=daunknowncoder&" alt="daunknowncoder" /></p>
 
 ## 🗂️ Highlight Projects
 
