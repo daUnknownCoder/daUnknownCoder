@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hey%20Yo!)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&text=Hey%20Yo!&animation=fade)
 
 - 🔭 I’m currently working on life 😢.
 - 🌱 I’m currently learning Python 🐍.
