@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&text=Hey%20Yo!&animation=fadeIn&fontColor=gradient&fontSize=50&fontAlign=40&fontAlignY=35&desc=Trying%20to%20sort%20out%20my%20life%20with%20Coding%20:D&descAlign=60&descAlignY=55)
+![header](https://capsule-render.vercel.app/api?type=waving&height=150&text=Hey%20Yo!&animation=fadeIn&fontColor=gradient&fontSize=50&fontAlign=40&fontAlignY=35&desc=Trying%20to%20sort%20out%20my%20life%20with%20Coding%20:D&descAlign=60&descAlignY=55)
 
 - 🔭 I’m currently working on life 😢.
 - 🌱 I’m currently learning Python 🐍.
