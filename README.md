@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on life 😢.
 - 🌱 I’m currently learning Python 🐍.
 - 📫 How to reach me: Reddit [u/TackyGaming6](https://reddit.com/user/TackyGaming6)
-- 😄 Pronouns: He/Him
+- 😄 Pronouns: He/Him <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 - ⚡ Fun fact: I like creating plugins but i don't know how to :D
 
 ```yaml
