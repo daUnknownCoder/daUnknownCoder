@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=150&text=Hey%20Yo!&animation=fadeIn&fontSize=50&fontAlign=40&fontAlignY=35&desc=Trying%20to%20sort%20out%20my%20life%20with%20Coding%20:D&descAlign=60&descAlignY=55)
+# Hello There 👋
 
 - 🔭 I’m currently working on life 😢, and maybe my Neovim Distro [NeutronVim](https://github.com/daUnknownCoder/NeutronVim).
 - 🌱 I’m currently learning Python 🐍, Lua, Java, HTML.
