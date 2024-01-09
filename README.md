@@ -1,10 +1,8 @@
-# Hello There 👋
+<h1 align="center"> Yo fam, daUnknownCoder here 👋 </h1>
 
-- 🔭 I’m currently working on life 😢, and maybe my Neovim Distro [NeutronVim](https://github.com/daUnknownCoder/NeutronVim).
-- 🌱 I’m currently learning Python 🐍, Lua, Java, HTML.
-- 📫 How to reach me: Reddit [u/TackyGaming6](https://reddit.com/user/TackyGaming6)
-- 😄 Pronouns: He/Him <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-- ⚡ Fun fact: I like creating plugins but i don't know how to :D
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Salsa&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+life+%F0%9F%98%A2.;And+my+Neovim+Distro+%5BNeutronVim%5D.;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Python%2C+Lua%2C+HTML.;%F0%9F%93%AB+How+to+reach+me%3A+Reddit+%5Bu%2FTackyGaming6%5D.;I+love+Open-Source.;Just+A+Novice.;Still+have+a+long+way+to+go." />
+</p>
 
 ```yaml
 name: StellarCoder
