@@ -51,10 +51,10 @@ wanna_learn:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daunknowncoder&show_icons=true&locale=en&layout=compact" alt="daunknowncoder" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daunknowncoder&show_icons=true&locale=en&layout=compact&theme=transparent" alt="daunknowncoder" /></p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daunknowncoder&show_icons=true&locale=en" alt="daunknowncoder" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daunknowncoder&show_icons=true&locale=en&theme=transparent" alt="daunknowncoder" /></p>
 
 
 ## 🗂️ Highlight Projects
