@@ -51,11 +51,12 @@ wanna_learn:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=daunknowncoder&show_icons=true&locale=en&layout=compact&theme=transparent" alt="daunknowncoder" /></p>
+<div align="center">
 
+[![daUnknownCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=daUnknownCoder&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=daunknowncoder&show_icons=true&locale=en&theme=transparent" alt="daunknowncoder" /></p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daUnknownCoder&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 ## 🗂️ Highlight Projects
 
