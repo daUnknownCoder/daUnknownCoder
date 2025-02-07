@@ -1,8 +1,10 @@
 <h1 align="center"> Yo fam, daUnknownCoder here 👋 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Salsa&pause=1000&center=true&vCenter=true&random=false&width=435&lines=%F0%9F%94%AD+I%E2%80%99m+currently+working+on+life+%F0%9F%98%A2.;And+my+Neovim+Distro+%5BNeutronVim%5D.;%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Python%2C+Lua%2C+HTML.;%F0%9F%93%AB+How+to+reach+me%3A+Reddit+%5Bu%2FTackyGaming6%5D.;I+love+Open-Source.;Just+A+Novice.;Still+have+a+long+way+to+go." />
-</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=LigaEllographCF+Nerd+Font&weight=100&size=15&duration=3000&pause=500&background=0104092A&center=true&vCenter=true&random=true&width=500&lines=%F0%9F%92%A5+Currently+Nuking+my+hyprland+dotfiles+%F0%9F%98%85.;%F0%9F%94%AD+Working+on+my+NeoVim+Distro+%5BNeutronVim%5D.;%E2%8C%A8%EF%B8%8F+I'm+currently+learning+Python%2C+CSS%2C+JS%2C+Lua%2C+C.;%F0%9F%93%AC+How+to+reach+me%3A+%F0%9F%97%A3%EF%B8%8F+Discord+%5Bdaunknownguy%5D.;%F0%9F%94%93+I+love+using+and+contributing+to+open+source.;%E2%9C%89%EF%B8%8F+Email%3A+daunknowncoder%40gmail.com;%F0%9F%97%A3%EF%B8%8F+Still+an+amateur+in+all+languages...;%F0%9F%8C%8C+Have+a+long+way+to+go..." alt="Typing SVG">
+  </a>
+</div>
 
 ```yaml
 name: StellarCoder
