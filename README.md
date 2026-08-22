@@ -47,29 +47,9 @@ wanna_learn:
 
 ![Snake Animation](https://github.com/daUnknownCoder/daUnknownCoder/blob/output/github-contribution-grid-snake-dark.svg)
 
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-</p>
 
-<div align="center">
-
-[![daUnknownCoder's GitHub stats](https://github-readme-stats.vercel.app/api?username=daUnknownCoder&hide=prs&custom_title=My%20Github%20Stat's&show_icons=true&theme=dracula&border_radius=10&hide_border=true&bg_color=15,0d1117,1a1b26)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=daUnknownCoder&theme=dracula&hide_border=true&border_radius=10&bg_color=15,0d1117,1a1b26&show_icons=true&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-</div>
-
-## 🗂️ Highlight Projects
-
-<a href="https://github.com/daUnknownCoder/NeutronVim">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daUnknownCoder&repo=NeutronVim&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="DA-RNN" />
-</a>
-
-<a href="https://github.com/daUnknownCoder/dotsgame.html">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=daUnknownCoder&repo=dotsgame.html&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="crnn-pytorch" />
-</a>
-
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=daUnknownCoder&show_icons=true&include_all_commits=true&theme=radical)](https://github-stats-extended.vercel.app/api?username=daUnknownCoder&show_icons=true&include_all_commits=true&theme=radical)
+[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=daUnknownCoder&layout=donut&langs_count=4&theme=radical)](https://github-stats-extended.vercel.app/api/top-langs?username=daUnknownCoder&layout=donut&langs_count=4&theme=radical)
 
 
 ## Social(s) I Use:
